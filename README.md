@@ -5,4 +5,4 @@
 - 📫 How to reach me: twinkkrati18012012@gmail.com
 - ⚡ Fun fact: I'm 13 years old, I live in Saratov in Russia
   
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Bgdn18/Bgdn18/blob/output/github-contribution-grid-snake.svg)
